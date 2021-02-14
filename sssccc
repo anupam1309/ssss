@@ -1,5 +1,7 @@
 import java.util.Scanner; // I use scanner because it's command line.
 
+public static void main{}
+public static void m
 public class Login {
 public void run() {
     Scanner scan = new Scanner (new File("the\\dir\\myFile.extension"));
